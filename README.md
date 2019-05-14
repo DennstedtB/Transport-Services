@@ -6,3 +6,11 @@ Those classes should create Transport Requests and add Objects to it.
 Currently working is only the customizing request ( but also only adding objects to it ) 
 
 To see how the classes are working please have a look into the several unit test classes which are called "LTC_HOW_TO_USE" 
+
+## Contribution
+Please feel free to add some coding and some stuff via PR. 
+
+## Upcoming features: 
+- Deleting Objects from Customizing-Transport Requests
+- Implement Workbench Requests
+- Delete Tasks and Transport Requests
